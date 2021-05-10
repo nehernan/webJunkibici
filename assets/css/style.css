@@ -1,0 +1,9 @@
+.imgCarousel {
+    border-radius: 50% !important;
+}
+
+@media only screen and (max-width: 480px) {
+    #mapid {
+        text-align: center;
+    }
+}
